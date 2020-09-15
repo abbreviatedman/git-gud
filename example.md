@@ -1,6 +1,5 @@
 # Git Gud: A Git Exercise
 
-A **Code Immersives** Joint.
 
 ### So Gud?
 
